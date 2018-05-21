@@ -1,4 +1,4 @@
-# Directory for my paper
+# paper
 
 ## Introduction
 
