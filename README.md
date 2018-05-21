@@ -6,7 +6,7 @@ this paper shows that ...
 
 ## Methodology
 
-blah2
+the method that we will use ...
 
 ## Results
 
